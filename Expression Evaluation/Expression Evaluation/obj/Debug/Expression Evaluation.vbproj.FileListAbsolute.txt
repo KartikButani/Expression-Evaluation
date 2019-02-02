@@ -1,0 +1,30 @@
+C:\Users\krButani\Desktop\Expression Evaluation\Expression Evaluation\bin\Debug\Expression Evaluation.exe
+C:\Users\krButani\Desktop\Expression Evaluation\Expression Evaluation\bin\Debug\Expression Evaluation.pdb
+C:\Users\krButani\Desktop\Expression Evaluation\Expression Evaluation\bin\Debug\Expression Evaluation.xml
+C:\Users\krButani\Desktop\Expression Evaluation\Expression Evaluation\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\krButani\Desktop\Expression Evaluation\Expression Evaluation\obj\Debug\Expression_Evaluation.Form1.resources
+C:\Users\krButani\Desktop\Expression Evaluation\Expression Evaluation\obj\Debug\Expression_Evaluation.Resources.resources
+C:\Users\krButani\Desktop\Expression Evaluation\Expression Evaluation\obj\Debug\Expression Evaluation.vbproj.GenerateResource.Cache
+C:\Users\krButani\Desktop\Expression Evaluation\Expression Evaluation\obj\Debug\Expression Evaluation.exe
+C:\Users\krButani\Desktop\Expression Evaluation\Expression Evaluation\obj\Debug\Expression Evaluation.xml
+C:\Users\krButani\Desktop\Expression Evaluation\Expression Evaluation\obj\Debug\Expression Evaluation.pdb
+E:\Work\MCA\SEM-4\VB.net\Expression Evaluation\Expression Evaluation\obj\Debug\Expression Evaluation.exe
+E:\Work\MCA\SEM-4\VB.net\Expression Evaluation\Expression Evaluation\obj\Debug\Expression Evaluation.xml
+E:\Work\MCA\SEM-4\VB.net\Expression Evaluation\Expression Evaluation\obj\Debug\Expression Evaluation.pdb
+E:\Work\MCA\SEM-4\VB.net\Expression Evaluation\Expression Evaluation\bin\Debug\Expression Evaluation.exe
+E:\Work\MCA\SEM-4\VB.net\Expression Evaluation\Expression Evaluation\bin\Debug\Expression Evaluation.pdb
+E:\Work\MCA\SEM-4\VB.net\Expression Evaluation\Expression Evaluation\bin\Debug\Expression Evaluation.xml
+E:\Work\MCA\SEM-4\VB.net\Expression Evaluation\Expression Evaluation\obj\Debug\ResolveAssemblyReference.cache
+E:\Work\MCA\SEM-4\VB.net\Expression Evaluation\Expression Evaluation\obj\Debug\Expression_Evaluation.Form1.resources
+E:\Work\MCA\SEM-4\VB.net\Expression Evaluation\Expression Evaluation\obj\Debug\Expression_Evaluation.Resources.resources
+E:\Work\MCA\SEM-4\VB.net\Expression Evaluation\Expression Evaluation\obj\Debug\Expression Evaluation.vbproj.GenerateResource.Cache
+F:\Work\MCA\SEM-4\U Drive\All U Drives\My U Drive All Data\MCA sem - 4\VB.Net\Deletable\2008\Expression Evaluation\Expression Evaluation\obj\Debug\Expression Evaluation.exe
+F:\Work\MCA\SEM-4\U Drive\All U Drives\My U Drive All Data\MCA sem - 4\VB.Net\Deletable\2008\Expression Evaluation\Expression Evaluation\obj\Debug\Expression Evaluation.xml
+F:\Work\MCA\SEM-4\U Drive\All U Drives\My U Drive All Data\MCA sem - 4\VB.Net\Deletable\2008\Expression Evaluation\Expression Evaluation\obj\Debug\Expression Evaluation.pdb
+F:\Work\MCA\SEM-4\U Drive\All U Drives\My U Drive All Data\MCA sem - 4\VB.Net\Deletable\2008\Expression Evaluation\Expression Evaluation\bin\Debug\Expression Evaluation.exe
+F:\Work\MCA\SEM-4\U Drive\All U Drives\My U Drive All Data\MCA sem - 4\VB.Net\Deletable\2008\Expression Evaluation\Expression Evaluation\bin\Debug\Expression Evaluation.pdb
+F:\Work\MCA\SEM-4\U Drive\All U Drives\My U Drive All Data\MCA sem - 4\VB.Net\Deletable\2008\Expression Evaluation\Expression Evaluation\bin\Debug\Expression Evaluation.xml
+F:\Work\MCA\SEM-4\U Drive\All U Drives\My U Drive All Data\MCA sem - 4\VB.Net\Deletable\2008\Expression Evaluation\Expression Evaluation\obj\Debug\ResolveAssemblyReference.cache
+F:\Work\MCA\SEM-4\U Drive\All U Drives\My U Drive All Data\MCA sem - 4\VB.Net\Deletable\2008\Expression Evaluation\Expression Evaluation\obj\Debug\Expression_Evaluation.Form1.resources
+F:\Work\MCA\SEM-4\U Drive\All U Drives\My U Drive All Data\MCA sem - 4\VB.Net\Deletable\2008\Expression Evaluation\Expression Evaluation\obj\Debug\Expression_Evaluation.Resources.resources
+F:\Work\MCA\SEM-4\U Drive\All U Drives\My U Drive All Data\MCA sem - 4\VB.Net\Deletable\2008\Expression Evaluation\Expression Evaluation\obj\Debug\Expression Evaluation.vbproj.GenerateResource.Cache
